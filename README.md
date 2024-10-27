@@ -1,4 +1,5 @@
-### Hi, I'm Eduardo 😊
+### Hey there, welcome!
+I'm Eduardo 😊
 
 [![INSTAGRAN](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduartt1_)
 
