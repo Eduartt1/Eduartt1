@@ -1,7 +1,5 @@
-### Olá! eu sou o Eduardo marcelino 😊
-
 <a href="https://www.instagram.com/eduartt1_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="INSTAGRAM">
 </a>
 
 ![Eduartt1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduartt1&show_icons=true&theme=tokyonight)
