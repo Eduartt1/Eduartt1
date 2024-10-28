@@ -1,7 +1,8 @@
-### Hey there, welcome!
-### I'm Eduardo 😊
+### Olá! eu sou o Eduardo marcelino 😊
 
-[![INSTAGRAN](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduartt1_)
+<a href="https://www.instagram.com/eduartt1_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
 ![Eduartt1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduartt1&show_icons=true&theme=tokyonight)
 
