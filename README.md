@@ -1,6 +1,8 @@
-<a href="https://www.instagram.com/eduartt1_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="INSTAGRAM">
-</a>
+
+### Hey there, welcome!
+### I'm Eduardo 😊
+
+[![INSTAGRAN](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduartt1_)
 
 ![Eduartt1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduartt1&show_icons=true&theme=tokyonight)
 
